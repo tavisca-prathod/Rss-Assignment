@@ -1,0 +1,87 @@
+.body-color {
+	background-color: #B6B7BC;
+}
+.entry-container {
+	background-color: #fff;
+}
+.rss-header-div {
+
+	background-color: #4B6C9E;
+}
+.rss-title-input-div {
+	background-color: #3A4F63;
+}
+.welcome-text-div {
+	float: left;
+	margin-left: 20px;
+}
+
+.welcome-text-h {
+	color: #7B8DB9;
+	font-weight: 900;
+	font-variant: small-caps;
+}
+
+.url-input-div {
+	color: #7B8DB9;
+	font-weight: 900;
+	float: right;
+	padding-top: 7px;
+	padding-right: 10px;
+	padding-bottom: 3px;
+	font-variant: small-caps;
+}
+
+.url-input-text {
+	width: 350px;	
+	height: 20px;
+}
+
+.rss-feeder-header-text {
+	color: #fff;
+	margin-left: 20px;
+	font-weight: 900;
+	font-variant: small-caps;
+}
+
+.feed-title-description-div {
+	font-weight: bold;
+	font-size: x-small;
+}
+
+.entry-div {
+	margin-top: 7px;
+	margin-left: -5px;
+	margin-right: -5px;
+	border-radius: 5px;
+}
+
+.timeStamp-div {
+	font-weight: bold;
+	color: #606060;
+}
+
+.entry-title-link {
+	text-decoration: underline;
+	color: #3366FF;
+	font-weight: bold;
+	font-size: small;
+}
+
+.entry-content {
+	font-weight:bold;
+	color:#606060;
+	font-size: smaller;
+}
+
+.title-and-time-stamp-div {
+	margin-top: 8px;
+}
+
+.feed-title-div {
+	margin-left: 0px;
+}
+
+.feed-title {
+	color: #606060;
+}
